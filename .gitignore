@@ -1,5 +1,6 @@
 *.iml
 .gradle
+<<<<<<< HEAD
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -13,3 +14,11 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+local.properties
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+>>>>>>> de39f56 (Initial commit)
